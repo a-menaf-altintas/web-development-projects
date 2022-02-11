@@ -1,6 +1,6 @@
 # Web development projects
 
-## Author: Abduulmenaf Altintas
+## Author: Abdulmenaf Altintas
 
 This folder contains my recent web development projects
 
