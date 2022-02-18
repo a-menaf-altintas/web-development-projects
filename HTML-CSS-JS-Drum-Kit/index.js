@@ -13,7 +13,7 @@ for (var i = 0; i < length; i++) {
 }
 
 
-// Detecting key-board press
+// Detecting key-board presses
 document.addEventListener("keypress", function(event) {
 
     makeSound(event.key);
